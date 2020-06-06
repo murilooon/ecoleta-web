@@ -1,7 +1,7 @@
 # ecoleta-web
 
 Install all dependencies
-`npm install`
+```npm install```
 
 Start the application
-`npm start`
+```npm start```
